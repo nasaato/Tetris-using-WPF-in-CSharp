@@ -1,0 +1,42 @@
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\App.g.cs
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp_MarkupCompile.cache
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp_MarkupCompile.lref
+C:\My edcation\6 term\Practice\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.exe
+C:\My edcation\6 term\Practice\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.deps.json
+C:\My edcation\6 term\Practice\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.runtimeconfig.json
+C:\My edcation\6 term\Practice\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.dll
+C:\My edcation\6 term\Practice\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.pdb
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.g.resources
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.AssemblyInfoInputs.cache
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.AssemblyInfo.cs
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.csproj.CoreCompileInputs.cache
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.dll
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\refint\Tetris WPFApp.dll
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.pdb
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.genruntimeconfig.cache
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\ref\Tetris WPFApp.dll
+C:\My edcation\6 term\Practice\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp_Content.g.cs
+C:\My edcation\My projects\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.exe
+C:\My edcation\My projects\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.deps.json
+C:\My edcation\My projects\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.runtimeconfig.json
+C:\My edcation\My projects\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.dll
+C:\My edcation\My projects\Tetris WPFApp\bin\Debug\net8.0-windows\Tetris WPFApp.pdb
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\App.g.cs
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp_Content.g.cs
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp_MarkupCompile.cache
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp_MarkupCompile.lref
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.g.resources
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.AssemblyInfoInputs.cache
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.AssemblyInfo.cs
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.csproj.CoreCompileInputs.cache
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.dll
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\refint\Tetris WPFApp.dll
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.pdb
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.genruntimeconfig.cache
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\ref\Tetris WPFApp.dll

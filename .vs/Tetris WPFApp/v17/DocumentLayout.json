@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My edcation\\My projects\\Tetris WPFApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACC3213-F4B8-43DC-B290-DA38FBC7E4F8}|Tetris WPFApp.csproj|c:\\my edcation\\my projects\\tetris wpfapp\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACC3213-F4B8-43DC-B290-DA38FBC7E4F8}|Tetris WPFApp.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACC3213-F4B8-43DC-B290-DA38FBC7E4F8}|Tetris WPFApp.csproj|c:\\my edcation\\my projects\\tetris wpfapp\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACC3213-F4B8-43DC-B290-DA38FBC7E4F8}|Tetris WPFApp.csproj|solutionrelative:gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACC3213-F4B8-43DC-B290-DA38FBC7E4F8}|Tetris WPFApp.csproj|c:\\my edcation\\my projects\\tetris wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ACC3213-F4B8-43DC-B290-DA38FBC7E4F8}|Tetris WPFApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACC3213-F4B8-43DC-B290-DA38FBC7E4F8}|Tetris WPFApp.csproj|c:\\my edcation\\my projects\\tetris wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACC3213-F4B8-43DC-B290-DA38FBC7E4F8}|Tetris WPFApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\My edcation\\My projects\\Tetris WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\My edcation\\My projects\\Tetris WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAIwLwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:10:15.023Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\My edcation\\My projects\\Tetris WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\My edcation\\My projects\\Tetris WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T14:10:07.382Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameGrid.cs",
+              "DocumentMoniker": "C:\\My edcation\\My projects\\Tetris WPFApp\\GameGrid.cs",
+              "RelativeDocumentMoniker": "GameGrid.cs",
+              "ToolTip": "C:\\My edcation\\My projects\\Tetris WPFApp\\GameGrid.cs",
+              "RelativeToolTip": "GameGrid.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:07:01.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\My edcation\\My projects\\Tetris WPFApp\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\My edcation\\My projects\\Tetris WPFApp\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAIwMoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:05:36.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
