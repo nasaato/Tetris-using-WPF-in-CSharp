@@ -40,3 +40,4 @@ C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\refint\Tetris 
 C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.pdb
 C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.genruntimeconfig.cache
 C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\ref\Tetris WPFApp.dll
+C:\My edcation\My projects\Tetris WPFApp\obj\Debug\net8.0-windows\Tetris WPFApp.sourcelink.json

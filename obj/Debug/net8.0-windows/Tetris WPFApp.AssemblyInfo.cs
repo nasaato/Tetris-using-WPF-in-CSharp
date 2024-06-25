@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tetris WPFApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9da009b735777142edde99c212ac9666c0be8a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tetris WPFApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tetris WPFApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
